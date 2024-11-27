@@ -1,0 +1,45 @@
+[04:39:04] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:39:07] [ServerMain/INFO]: Loaded 1337 recipes
+[04:39:07] [ServerMain/INFO]: Loaded 1448 advancements
+[04:39:07] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[04:39:07] [Server thread/INFO]: Loading properties
+[04:39:07] [Server thread/INFO]: Default game type: SURVIVAL
+[04:39:07] [Server thread/INFO]: Generating keypair
+[04:39:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:39:07] [Server thread/INFO]: Using epoll channel type
+[04:39:07] [Server thread/INFO]: Preparing level "world"
+[04:39:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:39:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:39:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:39:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:39:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:39:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:39:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:39:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:39:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:39:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:39:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:39:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:39:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:39:14] [Server thread/INFO]: Time elapsed: 6017 ms
+[04:39:14] [Server thread/INFO]: Done (6.389s)! For help, type "help"
+[04:39:31] [User Authenticator #1/INFO]: UUID of player PSYQU3 is 16e453f4-fc86-4426-aa22-4410b3d1bcd9
+[04:39:33] [Server thread/INFO]: PSYQU3[/[0:0:0:0:0:0:0:1%0]:47046] logged in with entity id 80 at (885.9223688314501, 64.0, 1205.3109654872378)
+[04:39:33] [Server thread/INFO]: PSYQU3 joined the game
+[04:39:52] [User Authenticator #2/INFO]: UUID of player ScariestCrow62 is 0e1a4dbe-6754-4f13-a927-796a15ea2a42
+[04:39:53] [Server thread/INFO]: ScariestCrow62[/[0:0:0:0:0:0:0:1%0]:58356] logged in with entity id 366 at (87.5, 73.0, 9.5)
+[04:39:53] [Server thread/INFO]: ScariestCrow62 joined the game
+[04:40:10] [Server thread/INFO]: [PSYQU3: Teleported ScariestCrow62 to PSYQU3]
+[04:40:25] [Server thread/INFO]: [PSYQU3: Made ScariestCrow62 a server operator]
+[04:47:33] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=897, y=64, z=1209} jh{x=898, y=63, z=1209}
+[05:00:07] [User Authenticator #3/INFO]: UUID of player PSYQU3 is 16e453f4-fc86-4426-aa22-4410b3d1bcd9
+[05:00:07] [Server thread/INFO]: PSYQU3 lost connection: Disconnected
+[05:00:07] [Server thread/INFO]: PSYQU3 left the game
+[05:00:07] [Server thread/WARN]: handleDisconnection() called twice
+[05:00:08] [Server thread/INFO]: PSYQU3[/[0:0:0:0:0:0:0:1%0]:36626] logged in with entity id 3353 at (901.9083626099614, 64.0, 1208.3231484164432)
+[05:00:08] [Server thread/INFO]: PSYQU3 joined the game
+[05:02:08] [Server thread/INFO]: PSYQU3 lost connection: Timed out
+[05:02:08] [Server thread/INFO]: PSYQU3 left the game
+[05:02:10] [Server thread/INFO]: ScariestCrow62 lost connection: Timed out
+[05:02:10] [Server thread/INFO]: ScariestCrow62 left the game
+[05:03:10] [Server thread/INFO]: Server empty for 60 seconds, pausing
