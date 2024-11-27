@@ -768,6 +768,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-11-27 03:55:36 +0000",
       "minecraft:skeleton": "2024-11-27 03:40:39 +0000",
       "minecraft:spider": "2024-10-26 04:22:50 +0000",
       "minecraft:zombie": "2024-10-26 01:49:26 +0000",
@@ -1246,6 +1247,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-11-27 03:54:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2024-11-27 03:46:42 +0000"
@@ -1345,6 +1352,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-11-27 03:29:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2024-11-27 03:49:45 +0000"
     },
     "done": true
   },
